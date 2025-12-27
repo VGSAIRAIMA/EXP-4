@@ -35,18 +35,29 @@ PROCEDURE:
 4.   Repeat the above steps for full wave and bridge rectifiers.
 
 CIRCUIT DIAGRAMS
+<img width="1600" height="1066" alt="image" src="https://github.com/user-attachments/assets/c2bed985-e6eb-4b76-ad97-5d48b2a253e9" />
+<img width="1350" height="785" alt="image" src="https://github.com/user-attachments/assets/cc016d12-fee4-4981-a83a-eaadd8da2064" />
 
 Half wave rectifier with filter:
+<img width="1600" height="818" alt="image" src="https://github.com/user-attachments/assets/f4b7d977-bcaf-40b6-a015-ba70e20af45e" />
 
 Bridge rectifier with filter:
+<img width="1600" height="818" alt="image" src="https://github.com/user-attachments/assets/52efada5-5e3e-4656-bf10-a3ffed1af00f" />
 
 TABULAR COLUMN
 Rectifier without filter
+<img width="1530" height="509" alt="image" src="https://github.com/user-attachments/assets/5c4a669f-8d4a-44fd-9642-207582206855" />
+
 TABULAR COLUMN
 Rectifier with filter
+<img width="1465" height="464" alt="image" src="https://github.com/user-attachments/assets/d904aebb-1fdd-43a7-9f7b-c9173c9dd0f6" />
 
 WAVEFORM:
+HAL-WAVE
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/4dc40b80-dae6-4700-82e6-dc4b891d0e78" />
 
+FULL-WAVE
+<img width="756" height="360" alt="image" src="https://github.com/user-attachments/assets/ea3e530b-9109-432c-951a-9833597c3493" />
 
 RESULT:
 
